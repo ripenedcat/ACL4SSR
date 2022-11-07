@@ -6,3 +6,4 @@
 # TOTAL: 81
 IP-CIDR,167.220.0.0/16,no-resolve
 DOMAIN-SUFFIX,syncthing.net
+DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
