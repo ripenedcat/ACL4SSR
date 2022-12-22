@@ -7,4 +7,8 @@
 IP-CIDR,167.220.0.0/16,no-resolve
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
+DOMAIN-SUFFIX,ripenedcat.com
 DOMAIN-SUFFIX,tingyun.com
+#微信小程序，已经部分对话时表情包的加载
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
