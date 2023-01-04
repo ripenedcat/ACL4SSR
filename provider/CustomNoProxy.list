@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 #哔哩哔哩出现短暂的无法加载
 DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
+#测试不要block的ads
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
