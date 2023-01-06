@@ -4,4 +4,5 @@
 DOMAIN-SUFFIX,whatismyipaddress.com
 #地城邂逅
 DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
-# DOMAIN-SUFFIX,bd-film.com
+DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
+DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
