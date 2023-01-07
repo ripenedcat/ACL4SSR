@@ -18,4 +18,3 @@ DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
 #测试不要block的ads
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
-DOMAIN-SUFFIX,ads.google.com
