@@ -4,15 +4,19 @@
 # UPDATED: 2022-08-05 22:38:05
 # DOMAIN-SUFFIX: 81
 # TOTAL: 81
+#MSFT
 IP-CIDR,167.220.0.0/16,no-resolve
 DOMAIN-SUFFIX,msftvpn.ras.microsoft.com
-DOMAIN-SUFFIX,syncthing.net
-DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
-DOMAIN-SUFFIX,ripenedcat.com
-DOMAIN-SUFFIX,tingyun.com
 #微信小程序，已经部分对话时表情包的加载
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 #哔哩哔哩出现短暂的无法加载
 DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,cm.bilibili.com
+#听云
+DOMAIN-SUFFIX,tingyun.com
+DOMAIN-SUFFIX,networkbench.com
+#other
+DOMAIN-SUFFIX,syncthing.net
+DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
+DOMAIN-SUFFIX,ripenedcat.com
