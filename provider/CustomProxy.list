@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
+#测试不要block的ads
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,ads.google.com
