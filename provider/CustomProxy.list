@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
 #测试不要block的ads
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,ads.google.com
+DOMAIN-SUFFIX,supersonicads.com
