@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,supersonicads.com
+#OpenMediaVault Repository
+DOMAIN-SUFFIX,openmediavault.org
+
