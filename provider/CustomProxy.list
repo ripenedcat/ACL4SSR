@@ -12,4 +12,5 @@ DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,supersonicads.com
 #OpenMediaVault Repository
 DOMAIN-SUFFIX,openmediavault.org
-
+#QooApp
+DOMAIN-SUFFIX,qoo-app.com
