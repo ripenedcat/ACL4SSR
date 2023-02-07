@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,whatismyipaddress.com
 #地城邂逅
 DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
@@ -15,3 +14,4 @@ DOMAIN-SUFFIX,qoo-img.com
 DOMAIN-SUFFIX,qoo-apk.com
 #其他
 DOMAIN-SUFFIX,rclone.org
+DOMAIN-SUFFIX,whatismyipaddress.com
