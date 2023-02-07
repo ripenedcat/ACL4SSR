@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,openmediavault.org
 DOMAIN-SUFFIX,qoo-app.com
 DOMAIN-SUFFIX,qoo-img.com
 DOMAIN-SUFFIX,qoo-apk.com
+#其他
+DOMAIN-SUFFIX,rclone.org
