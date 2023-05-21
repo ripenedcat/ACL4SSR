@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,cloudflare.docker.com
 DOMAIN-SUFFIX,docker.io
 #虚拟币
 DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,c3pool.com
 #其他
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,whatismyipaddress.com
