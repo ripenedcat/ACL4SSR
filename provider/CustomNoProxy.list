@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,cm.bilibili.com
 #听云
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,networkbench.com
+#测试不要block的ads
+#DOMAIN-SUFFIX,googleads.g.doubleclick.net
+#DOMAIN-SUFFIX,ads.google.com
+DOMAIN-SUFFIX,supersonicads.com
+
 #other
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
