@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
 
+#Nikke
+DOMAIN-SUFFIX,nikke-kr.com
+
 #OpenMediaVault Repository
 DOMAIN-SUFFIX,openmediavault.org
 #QooApp
