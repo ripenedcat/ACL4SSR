@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
 DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
 
+DOMAIN-SUFFIX,steamcommunity.com
+
 #测试国外ip和dns
 DOMAIN-SUFFIX,ipleak.net
 
