@@ -1,16 +1,16 @@
 #Game
 DOMAIN-SUFFIX,steamcommunity.com
-#地城邂逅
+##地城邂逅
 #DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 #DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
 #DOMAIN-SUFFIX,bn-payment-ap.wrightflyer.net
 
-#Nikke
+##Nikke
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,appsflyer.com
 #anticheatexpert.com
-#QooApp
+##QooApp
 DOMAIN-SUFFIX,qoo-app.com
 DOMAIN-SUFFIX,qoo-img.com
 DOMAIN-SUFFIX,qoo-apk.com
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mikanani.me
 
 #其他
+DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,openai.com
