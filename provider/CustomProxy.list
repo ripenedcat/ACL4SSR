@@ -44,6 +44,8 @@ DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mikanani.me
 
 #其他
+DOMAIN-SUFFIX,cname-china.vercel-dns.com
+DOMAIN-SUFFIX,cname.vercel-dns.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,whatismyipaddress.com
