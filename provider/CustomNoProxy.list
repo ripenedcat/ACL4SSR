@@ -6,7 +6,7 @@
 # TOTAL: 81
 #MSFT
 IP-CIDR,167.220.0.0/16,no-resolve
-DOMAIN-SUFFIX,msftvpn.ras.microsoft.com
+DOMAIN-SUFFIX,ras.microsoft.com
 #微信小程序，已经部分对话时表情包的加载
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
