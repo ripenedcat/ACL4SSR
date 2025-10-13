@@ -4,6 +4,11 @@
 # UPDATED: 2022-08-05 22:38:05
 # DOMAIN-SUFFIX: 81
 # TOTAL: 81
+
+# 多邻国
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+
 #MSFT
 IP-CIDR,167.220.0.0/16,no-resolve
 DOMAIN-SUFFIX,ras.microsoft.com
