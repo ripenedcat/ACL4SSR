@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,openmediavault.org
 #Docker
 #DOMAIN-SUFFIX,cloudflare.docker.com
 #DOMAIN-SUFFIX,docker.io
-#DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghcr.io
 
 #虚拟币
 DOMAIN-SUFFIX,f2pool.com
