@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,supersonicads.com
 #zoom
 DOMAIN-SUFFIX,zoom.us
 
+#cambly
+DOMAIN-SUFFIX,cambly.com
+
 #other
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
