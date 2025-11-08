@@ -26,7 +26,14 @@ DOMAIN-SUFFIX,networkbench.com
 #DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,supersonicads.com
 
+#zoom
+DOMAIN-SUFFIX,zoom.us
+
 #other
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,cucumber-tp.tpddns.cn
 DOMAIN-SUFFIX,ripenedcat.com
+
+
+
+
