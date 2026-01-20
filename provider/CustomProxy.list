@@ -1,5 +1,6 @@
 #Game
-DOMAIN-SUFFIX,steamcommunity.com
+#DOMAIN-SUFFIX,steamcommunity.com
+
 ##地城邂逅
 #DOMAIN-SUFFIX,api-danmemo-tw.wrightflyer.net
 #DOMAIN-SUFFIX,tdsdk-danmemo-tw.wrightflyer.net
