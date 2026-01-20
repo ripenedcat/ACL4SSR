@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,lightnovel.us
 DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mikanani.me
 
+#LucasServer2
+IP-CIDR,52.163.124.133/32,no-resolve
+
 #其他
 DOMAIN-SUFFIX,cname-china.vercel-dns.com
 DOMAIN-SUFFIX,cname.vercel-dns.com
